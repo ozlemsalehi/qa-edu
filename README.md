@@ -10,7 +10,7 @@ The prerequisites are basic knowledge on matrices, some experience with Python a
 
 ### Using Binder  
 
-You may [![launch binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qa-edu/HEAD?labpath=index.ipynb) to view the material without any installation.
+You may [![launch binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qa-edu/HEAD?urlpath=lab/tree/index.ipynb) to view the material without any installation.
 
 
 ---
